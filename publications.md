@@ -1,10 +1,10 @@
----
+ts---
 layout: homepage
 permalink: /publications
 title: Publications
 ---
 
-> Lastest Update: [中文版本 (Chinese Version)](http://shiyuhe.com/file/publications-zh/)
+> Lastest Update: [中文版本 (Chinese Version)](http://shiyuhe.com/assets/file/curriculum_vitae.pdf)
 
 ## Conference Paper
 
