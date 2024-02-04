@@ -1,4 +1,4 @@
-ts---
+---
 layout: homepage
 permalink: /publications
 title: Publications
