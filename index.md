@@ -36,7 +36,7 @@ My interest in Linguistics was kindled during my studies in Translation and Inte
 
 My research focuses on the transfer of reading habits and skills in Chinese learners of English. By integrating insights from cognitive linguistics and learning theory, and utilising eye-tracking as my primary research method, I aim to enhance the methods of teaching reading to Chinese EFL learners.
 
-我是何诗雨（Celia），在伯明翰大学担任语言学的研究生，并且是Out Of Our Minds研究小组的一员。
+我是何诗雨（Celia），在伯明翰大学担任语言学的博士研究生，并且是Out Of Our Minds研究小组的一员。
 
 我在英国杜伦大学获得了翻译学硕士学位。
 
