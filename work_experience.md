@@ -1,7 +1,7 @@
 ---
 layout: homepage
 permalink: /publications
-title: Publications
+title: W
 ---
 
 > Lastest Update: [中文版本 (Chinese Version)](http://shiyuhe.com/assets/files/curriculum_vitae.pdf)
