@@ -4,7 +4,7 @@ permalink: /publications
 title: Publications
 ---
 
-> Lastest Update: [中文版本 (Chinese Version)](http://shiyuhe.com/assets/file/curriculum_vitae.pdf)
+> Lastest Update: [中文版本 (Chinese Version)](http://shiyuhe.com/assets/files/curriculum_vitae.pdf)
 
 ## Conference Paper
 
