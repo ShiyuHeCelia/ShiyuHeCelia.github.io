@@ -7,11 +7,9 @@ description: 博士研究生
 
 owner: Shiyu He 何诗雨
 
-position: Doctoral researcher 
-position: 博士研究生
+position: Doctoral researcher 博士研究生
 
-affiliation: University of Birmingham, UK
-affiliation: 英国伯明翰大学
+affiliation: University of Birmingham, UK 英国伯明翰大学
 
 email: SXH1202@student.bham.ac.uk
 
@@ -21,7 +19,7 @@ canonical: http://shiyuhe.com
 
 baseurl: "" #name of GitHub repository
 url: "http://shiyuhe.com" #custom url to be used instead of GitHub repository
-email: sxh1202@student.bham.ac.uk
+email: SXH1202@student.bham.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
