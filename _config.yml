@@ -2,9 +2,9 @@
 
 title: Ms Shiyu (Celia) He 何诗雨
 description: Doctoral researcher 博士研究生
-owner: Shiyu He
-position: Doctoral researcher
-affiliation: University of Birmingham
+owner: Shiyu He 何诗雨
+position: Doctoral researcher 博士研究生
+affiliation: University of Birmingham 伯明翰大学
 email: sxh1202@student.bham.ac.uk
 keywords: Shiyu He
 canonical: http://shiyuhe.com
@@ -42,7 +42,7 @@ enable_footnote: false
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About Me 关于我
     url: /
   - title: Work Experience 工作经验
     url: /work_experience
