@@ -34,13 +34,13 @@ I am Shiyu (Celia) He, a Postgraduate Researcher in Linguistics at the Universit
 
 My interest in Linguistics was kindled during my studies in Translation and Interpreting at Central China Normal University. I hold a Master's degree in Translation Studies from Durham University, UK.
 
-My research focuses on the transfer of reading habits and skills in Chinese learners of English. By integrating insights from usage-based linguistics and learning theory, and utilising eye-tracking as my primary research method, I aim to enhance the methods of teaching reading to Chinese EFL learners.
+My research focuses on the transfer of reading habits and skills in Chinese learners of English. By integrating insights from cognitive linguistics and learning theory, and utilising eye-tracking as my primary research method, I aim to enhance the methods of teaching reading to Chinese EFL learners.
 
 我是何诗雨（Celia），在伯明翰大学担任语言学的研究生，并且是Out Of Our Minds研究小组的一员。
 
 我在英国杜伦大学获得了翻译学硕士学位。
 
-我的研究重点是探讨中国英语学习者的阅读习惯和技能的转移。通过结合使用基语言学和学习理论的见解，并使用眼动追踪作为我的主要研究方法，我旨在改善对中国英语作为外语学习者的阅读教学方法。
+我的研究关注于中文学习者英语阅读习惯和技能的转移。通过整合认知语言学和学习理论的洞见，并使用眼动追踪作为我的主要研究方法，我旨在提升对中国英语作为外语学习者教学阅读的方法。
 
 
 <!-- {% include_relative _includes/publications.md %}
