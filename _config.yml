@@ -42,13 +42,17 @@ enable_footnote: false
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me 关于我
+  - title: About Me
+    cn: 关于我
     url: /
-  - title: Work Experience 工作经验
+  - title: Work Experience
+    cn: 工作经验
     url: /work_experience
-  - title: Projects 研究项目
+  - title: Projects 
+    cn: 研究项目
     url: /projects
-  - title: Research 学术研究
+  - title: Research
+    cn: 学术研究
     url: /research
 
 highlighter: rouge
