@@ -1,12 +1,24 @@
-# Basic Information 
+# Basic Information
 
-title: Ms Shiyu (Celia) He 何诗雨
-description: Doctoral researcher 博士研究生
-owner: Shiyu He 何诗雨
-position: Doctoral researcher 博士研究生
-affiliation: University of Birmingham 伯明翰大学
+title: Ms Shiyu (Celia) He
+何诗雨
+
+description: Doctoral researcher
+博士研究生
+
+owner: Shiyu He
+何诗雨
+
+position: Doctoral researcher
+博士研究生
+
+affiliation: University of Birmingham
+伯明翰大学
+
 email: sxh1202@student.bham.ac.uk
+
 keywords: Shiyu He
+
 canonical: http://shiyuhe.com
 
 baseurl: "" #name of GitHub repository
