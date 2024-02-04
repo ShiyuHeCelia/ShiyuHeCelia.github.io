@@ -7,7 +7,7 @@ As a Research Associate at the University of Birmingham, I blend expertise in li
 
 作为伯明翰大学的一名研究助理，我将语言学、眼动研究和数据分析的专长结合起来。我管理实验室运营，培训博士生，并协调社交活动，凸显了我的组织和人际交往技能。追求应用语言学博士学位的同时，我拥有两个硕士学位和对语言教学及实验的热情，构成了我丰富的学术背景。我的多元文化经历和在多样环境中的熟练能力，驱动我致力于合作研究和持续学习。
 
-## Interests 研究兴趣
+## Interests 
 
 1. Eye-tracking
 2. cognitive linguistics
@@ -16,6 +16,7 @@ As a Research Associate at the University of Birmingham, I blend expertise in li
 5. Bilingualism
 6. Statistical modelling
 
+研究兴趣
 1. 眼动跟踪
 2. 认知语言学
 3. 二语词汇处理
