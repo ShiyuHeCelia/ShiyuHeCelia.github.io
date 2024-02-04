@@ -44,8 +44,8 @@ enable_footnote: false
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications
+  - title: Work Experience
+    url: /work_experience
   - title: Projects
     url: /projects
   - title: Research
