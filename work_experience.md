@@ -10,14 +10,14 @@ title: Work Experience
 ### University of Birmingham, Birmingham, England, United Kingdom
 
 ### Research Associate
-- **Part-time · 4 yrs 11 mos**
+- **Part-time**
 - **Birmingham, England, United Kingdom**
 - **Jan 2024 - Present · 2 mos**
 - Coordinated the establishment of a new lab, researching and referencing lab setups across the UK and EU. Assisted in designing and implementing our lab, incorporating best practices and innovative features.
 - **Skills:** Laboratory Equipment · Research Skills · Online Search · Good Laboratory Practice (GLP)
 
 ### Data Literacy Educator
-- **Part-time · 4 yrs 11 mos**
+- **Part-time**
 - **On-site**
 - **Jan 2024 - Present · 2 mos**
 - In my capacity as a Data Skills Instructor at the University of Birmingham's Skills Bootcamp, I am dedicated to imparting critical data skills, with a particular emphasis on their application within the creative industries. My responsibilities encompass:
@@ -28,28 +28,28 @@ title: Work Experience
 - **Skills:** University Teaching · Data Analysis · R coding · Teaching
 
 ### Research Collaborator
-- **Part-time · 4 yrs 11 mos**
+- **Part-time**
 - **On-site**
 - **Jun 2023 - Present · 9 mos**
 - As a Research Collaborator specializing in Linguistics and Eye-Tracking Technology, I partnered Professor Anindita Sahoo from Indian Institute of Technology Madras to support a study on Punjabi, an Indian language. My role involved providing extensive methodological assistance, encompassing the design of linguistically-focused experiments and training in the use of eye-tracking equipment. I contributed to the development of surveys, the collection and analysis of linguistic data, and offered insights specific to the nuances of Punjabi. This collaboration is ongoing, with plans to co-author a research paper that encapsulates our combined expertise and the novel findings of our study in language and eye-tracking technology. My involvement has been integral from the experimental phase through to the analytical and writing stages, ensuring a comprehensive and in-depth exploration of Punjabi language processing.
 - **Skills:** Statistical Data Analysis · Experimental Design · Eye Tracking · Laboratory Equipment
 
 ### Teaching Assistant
-- **Part-time · 4 yrs 11 mos**
+- **Part-time**
 - **On-site**
 - **Nov 2023 - Dec 2023 · 2 mos**
 - Assisted in leading Data Mining workshops for undergraduates with Professors Dagmar Divjak and Petar Milin. Prepared coding and data materials on Jupyter Notebook, focusing on R and Python for data mining instruction. Provided technical support in coding, including debugging and clarifying complex concepts to enhance student understanding.
 - **Skills:** Statistical Data Analysis · Online Content · Communication · Teaching · teaching coding
 
 ### Laboratory Manager
-- **Part-time · 4 yrs 11 mos**
+- **Part-time**
 - **On-site**
 - **Sep 2022 - Dec 2023 · 1 yr 4 mos**
 - Working for OOOMinds, a research project at the University of Birmingham. Ensured lab equipment was properly maintained and in optimal working condition. Organised and established a functional research lab environment. Developed and managed an efficient inventory system for lab equipment. Implemented a form to streamline lab usage scheduling for team members. Delivered hands-on training to new PhD students in using specialised equipment like eye-trackers. Presented detailed guidance on eye-tracker usage to department colleagues. Facilitated equipment use and research collaboration across departments. Offered troubleshooting and technical support to team members.
 - **Skills:** PsychoPy · social event managing · Data Mining · Laboratory Analysis · Laboratory Management · Laboratory Equipment · Good Laboratory Practice (GLP) · LabTech
 
 ### Research Technician
-- **Part-time · 4 yrs 11 mos**
+- **Part-time**
 - **On-site**
 - **Sep 2022 - Dec 2023 · 1 yr 4 mos**
 - Specialised in data preprocessing and wrangling using R, managing diverse data types including eye-tracking, Psychopy tasks, OpenSeasame tasks, Qualtrics surveys, interviews, and videos. Undertook comprehensive data preprocessing tasks such as variable preparation, data merging, cleaning, and normalisation, readying data for modelling
@@ -90,14 +90,14 @@ title: Work Experience
 ### 伯明翰大学，英格兰，伯明翰
 
 ### 研究助理
-- **兼职 · 4 年 11 个月**
+- **兼职**
 - **英格兰，伯明翰**
 - **2024 年 1 月 - 至今 · 2 个月**
 - 协调建立了一个新实验室，研究并参考了英国和欧盟的实验室设置。协助设计和实施我们的实验室，结合了最佳实践和创新功能。
 - **技能：** 实验室设备 · 研究技能 · 在线搜索 · 良好实验室实践（GLP）
 
 ### 数据素养教育者
-- **兼职 · 4 年 11 个月**
+- **兼职**
 - **现场**
 - **2024 年 1 月 - 至今 · 2 个月**
 - 作为伯明翰大学技能训练营的数据技能讲师，我致力于传授关键的数据技能，特别强调它们在创意产业中的应用。我的职责包括：
@@ -108,28 +108,28 @@ title: Work Experience
 - **技能：** 大学教学 · 数据分析 · R 编码 · 教学
 
 ### 研究合作者
-- **兼职 · 4 年 11 个月**
+- **兼职**
 - **现场**
 - **2023 年 6 月 - 至今 · 9 个月**
 - 作为专门从事语言学和眼动技术的研究合作者，我与印度理工学院马德拉斯分校的 Anindita Sahoo 教授合作，支持一项关于旁遮普语的研究，旁遮普语是一种印度语言。我的角色涉及提供广泛的方法论帮助，包括设计以语言学为中心的实验和使用眼动设备的培训。我贡献了调查的开发、语言数据的收集和分析，并提供了特定于旁遮普语的见解。这项合作正在进行中，计划合著一篇研究论文，总结我们的联合专长和我们在语言和眼动技术研究中的新发现。我的参与从实验阶段到分析和写作阶段都是不可或缺的，确保了对旁遮普语处理的全面和深入探索。
 - **技能：** 统计数据分析 · 实验设计 · 眼动追踪 · 实验室设备
 
 ### 助教
-- **兼职 · 4 年 11 个月**
+- **兼职**
 - **现场**
 - **2023 年 11 月 - 12 月 · 2 个月**
 - 协助 Dagmar Divjak 和 Petar Milin 教授为本科生领导数据挖掘工作坊。准备了关注 R 和 Python 的数据挖掘指导的编码和数据材料。在编码中提供技术支持，包括调试和澄清复杂概念，以增强学生理解。
 - **技能：** 统计数据分析 · 在线内容 · 沟通 · 教学 · 教授编码
 
 ### 实验室经理
-- **兼职 · 4 年 11 个月**
+- **兼职**
 - **现场**
 - **2022 年 9 月 - 2023 年 12 月 · 1 年 4 个月**
 - 在伯明翰大学的 OOOMinds 研究项目中工作。确保实验室设备得到妥善维护并处于最佳工作状态。组织并建立了一个功能性研究实验室环境。开发并管理了一个高效的实验室设备库存系统。实施了一种表格，以简化团队成员的实验室使用排程。为使用专业设备如眼动追踪器的新 PhD 学生提供了实践培训。向部门同事展示了关于眼动追踪器使用的详细指导。促进了跨部门的设备使用和研究合作。为团队成员提供了故障排除和技术支持。
 - **技能：** PsychoPy · 社交活动管理 · 数据挖掘 · 实验室分析 · 实验室管理 · 实验室设备 · 良好实验室实践（GLP） · LabTech
 
 ### 研究技术员
-- **兼职 · 4 年 11 个月**
+- **兼职**
 - **现场**
 - **2022 年 9 月 - 2023 年 12 月 · 1 年 4 个月**
 - 专门从事使用 R 进行数据预处理和整理，管理包括眼动追踪、Psychopy 任务、OpenSeasame 任务、Qualtrics 调查、访谈和视频在内的多种数据类型。承担了全面的数据预处理任务，如变量准备、数据合并、清洗和规范化，为建模准备数据。执行了描述性数据分析，利用 R 进行初步分析并使用 R Markdown 创建报告和可视化。独立进行了为期两个月的研究，涉及 40 名中国参与者进行在线语法判断任务。这包括理论理解、实验设计、参与者招募、数据分析和报告撰写。执行了高级统计建模，包括 PCA、聚类分析和带随机效应的线性混合效应模型，以及用于假设测试和结果解释的广义可加模型（GAM）。协助使用 Endnote 为研究团队的论文组织参考文献。
